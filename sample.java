@@ -7,7 +7,7 @@ public class sample {
     cars.add("Volvo");
     cars.add("BMW");
     cars.add("Ford");
-    cars.add("Mazda");
+    cars.add("Maza");
     System.out.println(cars);
   } 
 }
