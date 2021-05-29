@@ -9,6 +9,7 @@ public class sample {
     cars.add("Ford");
     cars.add("Maza");
     cars.add("HELLO");
+    cars.add("From Github");
     System.out.println(cars);
   } 
 }
