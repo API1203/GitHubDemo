@@ -10,6 +10,7 @@ public class sample {
     cars.add("Maza");
     cars.add("HELLO");
     cars.add("From Github");
+cars.add("From Jenkin COmmit");
     System.out.println(cars);
   } 
 }
