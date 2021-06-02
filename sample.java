@@ -11,6 +11,7 @@ public class sample {
     cars.add("HELLO");
     cars.add("From Github");
 cars.add("From Jenkin COmmit");
+cars.add("From Jenkin COmmt");
     System.out.println(cars);
   } 
 }
