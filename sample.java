@@ -12,6 +12,7 @@ public class sample {
     cars.add("From Github");
 cars.add("From Jenkin COmmit");
 cars.add("From Jenkin COmmt");
+cars.add("From Bit COmmt");
     System.out.println(cars);
   } 
 }
